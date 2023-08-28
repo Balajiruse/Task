@@ -1,0 +1,27 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+
+HTTP is the protocol that allows web browsers and servers to communicate and exchange information. HTTP has evolved over time to improve the speed and efficiency of web applications. 
+
+HTTP/1.1 and HTTP/2, and how they affect web performance.
+
+HTTP/1.1 was the first usable version of HTTP, created in 1997. It is still widely used on the web today. HTTP/1.1 works by sending text-based requests and responses between the client and the server. For example, when you visit a website, your browser sends an HTTP request to the server, asking for the content of the page. The server responds with an HTTP response, containing the HTML, images, stylesheets, and other resources that make up the page.
+
+
+HTTP/2 was created in 2015 as a new version of HTTP that addresses these limitations and offers several improvements over HTTP/1.1. One of them is that it uses binary framing to encode and transmit data, instead of plain text. Binary framing allows HTTP/2 to multiplex multiple requests and responses over a single TCP connection, without blocking or waiting for each other. This reduces network latency and improves page load speed.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Write a blog about objects and its internal representation in Javascript
+
+
+
+An object is a collection of properties that describe the state and behavior of the object. A property is a key-value pair, where the key is a string or a symbol, and the value can be any data type, including another object or a function.
+
+const sampleObj ={
+    name2 : "balaji",
+    education : " mca",
+    age : 23 ,
+}
+ console.log(sampleObj);
