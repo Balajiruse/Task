@@ -1,7 +1,8 @@
 Write a blog on Difference between HTTP1.1 vs HTTP2
 
 
-HTTP is the protocol that allows web browsers and servers to communicate and exchange information. HTTP has evolved over time to improve the speed and efficiency of web applications. 
+HTTP is the protocol that allows web browsers and servers to communicate and exchange information. 
+HTTP has evolved over time to improve the speed and efficiency of web applications. 
 
 HTTP/1.1 and HTTP/2, and how they affect web performance.
 
